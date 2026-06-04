@@ -21,8 +21,8 @@ foundations of modern machine learning. Topics include:
   Q-learning, policy search, LQR/LQG
 
 ### Repository Contents
-- `assignments/` — solutions to PS1–PS4
-- `project/` — [brief description of your final project]
+- `assignments/` — solutions to assignment1-assignment4
+- `project/` — [Personalized book recommendation at scale - A hybrid neural approach]
 
 
 ## CS-231N · Visual Computing & Deep Learning
@@ -48,5 +48,5 @@ covering both theory and systems-level implementation. Topics include:
 - **Video Understanding** — optical flow, TimeSformer, Video Swin, ViViT
 
 ### Repository Contents
-- `assignments/` — solutions to PS1–PS4
-- `project/` — [brief description of your final project]
+- `assignments/` — solutions to assignment1-assignment3
+- `project/` — [Robotic surgical instrument segmentation and pose estimation using EndoVis 2018 (SegFormer-B2 vs. U-Net/ResNet-50 baseline, with SAM-3 ablation)]
