@@ -1,4 +1,12 @@
-This repository contains the Stanford course-work and other projects Dhruva Bhagi has worked on in the AI/ML!
-- CS-229 - Core Machine Learning Graduate level course involving 4 assignments, 1 course project, a mid-term and 20 lectures. This is one of the most rigorous and demanding courses at Stanford as per Stanford's CS dept.
-- CS-231N - Visual Computing Graduate level course involving 3 assignments, a mid-term, course project and 16 lectures.
+AI/ML Coursework — Stanford University
+
+Graduate-level coursework and projects at the intersection of machine learning theory, visual computing, and applied AI systems.
+
+## Courses
+
+### CS-229 · Machine Learning
+Stanford's flagship graduate ML course covering the mathematical and algorithmic foundations of modern machine learning — spanning supervised and unsupervised learning, probabilistic modeling, optimization theory, and statistical inference.
+
+### CS-231N · Visual Computing & Deep Learning
+Graduate course on deep learning for visual data — covering convolutional networks, vision transformers, segmentation, and generative models, with applied projects on real-world computer vision problems.
 
