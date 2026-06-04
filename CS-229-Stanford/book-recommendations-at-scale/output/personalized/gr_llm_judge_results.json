@@ -1,0 +1,5008 @@
+{
+  "cf_mean_relevance": 3.325,
+  "hybrid_mean_relevance": 3.447,
+  "num_valid": 1000,
+  "num_total": 1000,
+  "results": [
+    {
+      "user_id_csv": 9880,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 52115,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 261568,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 154981,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 160855,
+      "cf_relevance": 2,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 295731,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 176858,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 406043,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 345211,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 319961,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 314593,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 240298,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 336157,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 144376,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 18474,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 204923,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 128440,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 281377,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 88317,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 112919,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 125382,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 43546,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 60325,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 131304,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 200454,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 324744,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 70009,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 159461,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 325723,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 353062,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 18427,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 233325,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 394563,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 353803,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 65777,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 258486,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 209744,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 222937,
+      "cf_relevance": 7,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 44455,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 293299,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 168477,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 71414,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 340012,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 266803,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 154116,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 298139,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 149027,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 190304,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 33064,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 329672,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 134662,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 263171,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 172707,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 188285,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 19477,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 20225,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 22607,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 38059,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 19495,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 332521,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 176753,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 363110,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 20209,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 123453,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 222533,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 282974,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 23937,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 126657,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 433503,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 5666,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 94766,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 258141,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 407901,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 242415,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 352936,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 142503,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 33458,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 314599,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 136537,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 224839,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 267958,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 316542,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 412874,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 224196,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 118215,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 119948,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 126730,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 95183,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 51641,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 354917,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 228489,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 382647,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 212006,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 19948,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 161299,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 431329,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 379831,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 250370,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 287212,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 256517,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 373463,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 72595,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 123378,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 405396,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 87837,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 431766,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 107316,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 199652,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 122633,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 78078,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 383096,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 351233,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 261866,
+      "cf_relevance": 2,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 280555,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 221845,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 119676,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 83691,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 418573,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 150832,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 303752,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 279733,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 299608,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 254379,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 188166,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 286783,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 437730,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 278130,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 48282,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 57543,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 351697,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 88409,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 46355,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 300410,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 134216,
+      "cf_relevance": 3,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 75904,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 386249,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 235276,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 407732,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 223174,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 7621,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 423241,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 397576,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 129642,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 16600,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 127490,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 185291,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 171548,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 320927,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 71891,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 175686,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 7212,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 258064,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 171845,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 422385,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 327078,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 348827,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 195855,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 115346,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 280871,
+      "cf_relevance": 3,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 76560,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 128334,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 305128,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 396924,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 405599,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 163736,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 88781,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 182280,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 194701,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 429523,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 266373,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 29873,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 187711,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 99085,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 5616,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 325813,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 159171,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 397077,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 141179,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 74672,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 320515,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 47983,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 341830,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 111339,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 75546,
+      "cf_relevance": 1,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 77094,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 435508,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 105519,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 45079,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 113126,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 106143,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 297236,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 217225,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 313640,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 35419,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 299800,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 255021,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 133636,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 265761,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 173375,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 56418,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 169587,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 399323,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 397484,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 354498,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 419066,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 57195,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 2926,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 425103,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 423016,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 159939,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 422863,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 283521,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 102573,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 139795,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 155842,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 113293,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 146603,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 15742,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 305998,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 210406,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 239657,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 333350,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 202348,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 228525,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 422744,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 287050,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 140121,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 345645,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 204017,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 226909,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 423798,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 120079,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 255567,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 114610,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 294449,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 24451,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 433430,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 4501,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 277838,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 200050,
+      "cf_relevance": 6,
+      "hybrid_relevance": 8
+    },
+    {
+      "user_id_csv": 83994,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 331230,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 307458,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 209530,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 439617,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 154674,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 177665,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 34656,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 268283,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 183892,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 146270,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 299301,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 328472,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 441911,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 387477,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 304349,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 212245,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 419414,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 250468,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 152232,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 296041,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 394202,
+      "cf_relevance": 7,
+      "hybrid_relevance": 8
+    },
+    {
+      "user_id_csv": 249204,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 284024,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 408374,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 367192,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 64827,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 258795,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 1636,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 77419,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 329282,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 366774,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 262775,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 200424,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 5289,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 382056,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 89530,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 97125,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 220961,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 403344,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 413460,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 263985,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 415586,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 337676,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 28938,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 115003,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 267290,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 38036,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 71050,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 400727,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 373687,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 280,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 41109,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 171292,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 125657,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 441378,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 352174,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 245976,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 75745,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 286363,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 153827,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 84548,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 251533,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 46879,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 128070,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 403416,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 359506,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 306339,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 314636,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 228311,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 407746,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 52999,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 218550,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 356916,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 69427,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 5665,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 67244,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 230599,
+      "cf_relevance": 5,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 432859,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 38127,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 6543,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 290978,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 277580,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 350210,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 40787,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 122158,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 88358,
+      "cf_relevance": 3,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 226050,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 43755,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 219091,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 164942,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 88044,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 207296,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 65331,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 299017,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 148860,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 135812,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 420333,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 91484,
+      "cf_relevance": 4,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 43757,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 86446,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 354072,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 248728,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 90105,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 197052,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 44389,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 268021,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 94916,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 399636,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 93255,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 124229,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 51812,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 290963,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 240899,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 428210,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 251925,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 397208,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 385813,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 356665,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 99411,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 155395,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 435798,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 124882,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 250689,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 57830,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 350908,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 150698,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 433592,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 320267,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 236895,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 406872,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 173105,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 229139,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 196129,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 438616,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 375714,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 191844,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 219041,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 286953,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 59848,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 95979,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 105668,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 394601,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 426279,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 209590,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 306831,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 211020,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 27644,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 88819,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 219085,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 196563,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 411528,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 129405,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 352882,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 146444,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 295256,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 350385,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 132628,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 6556,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 24994,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 248377,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 271201,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 17692,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 244301,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 430898,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 414037,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 190964,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 353027,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 342761,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 6050,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 128177,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 94585,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 410290,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 374680,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 415850,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 174667,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 125616,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 165020,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 185863,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 185337,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 177355,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 371319,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 207570,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 392505,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 95527,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 29859,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 117863,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 408796,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 197822,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 76762,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 311783,
+      "cf_relevance": 7,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 196244,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 354567,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 349739,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 348113,
+      "cf_relevance": 2,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 382752,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 288033,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 275912,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 416126,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 185137,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 153981,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 176049,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 45829,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 25781,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 186118,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 208734,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 419675,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 359378,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 238194,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 196387,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 41305,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 318415,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 216460,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 84444,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 265049,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 109426,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 327607,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 439246,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 435706,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 144353,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 418529,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 93237,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 272819,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 82105,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 151160,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 221254,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 79465,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 355515,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 275697,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 386289,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 11730,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 233335,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 161105,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 195817,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 253282,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 236753,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 431328,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 121967,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 215599,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 148782,
+      "cf_relevance": 2,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 39263,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 21711,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 217435,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 440337,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 45790,
+      "cf_relevance": 7,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 289271,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 53733,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 211092,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 115138,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 372664,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 38826,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 2341,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 175396,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 287315,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 394554,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 111688,
+      "cf_relevance": 6,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 440293,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 234675,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 298304,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 232041,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 402937,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 120059,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 266804,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 421140,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 371331,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 108992,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 276842,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 218771,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 301462,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 16649,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 392646,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 350700,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 241132,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 79053,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 54180,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 17288,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 68604,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 200961,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 293852,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 417096,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 151000,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 437105,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 349951,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 21980,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 35934,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 125637,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 284443,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 375269,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 70235,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 231000,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 361522,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 67968,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 114869,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 172182,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 193996,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 137395,
+      "cf_relevance": 1,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 253454,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 212170,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 338017,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 360768,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 401744,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 34124,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 40844,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 69732,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 197486,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 152920,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 241550,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 385496,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 145247,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 90091,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 426308,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 386387,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 154071,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 128079,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 75325,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 113294,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 238826,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 230564,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 19536,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 287798,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 219860,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 219577,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 8952,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 348787,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 423396,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 158193,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 69878,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 19707,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 74695,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 137579,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 413364,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 399859,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 126116,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 434898,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 162461,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 357850,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 106418,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 202336,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 123902,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 80379,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 225797,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 190722,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 8344,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 361744,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 95793,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 284574,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 351936,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 437218,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 253677,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 325103,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 159554,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 357808,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 70820,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 341625,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 403962,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 44396,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 164459,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 414388,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 262960,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 196807,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 213733,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 69857,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 366539,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 29377,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 205621,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 130220,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 79233,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 210578,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 160795,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 44006,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 347254,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 63805,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 352393,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 13690,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 191736,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 388782,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 309828,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 356170,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 385651,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 8180,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 395639,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 56782,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 228577,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 143202,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 34997,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 326268,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 71264,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 16262,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 164037,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 289188,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 176529,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 324269,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 326587,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 162904,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 420379,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 306441,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 266776,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 358158,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 180943,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 4059,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 401639,
+      "cf_relevance": 5,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 52394,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 236629,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 26068,
+      "cf_relevance": 5,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 431432,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 316677,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 368122,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 430639,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 318163,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 94096,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 352225,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 116607,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 231333,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 371307,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 5146,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 266950,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 177410,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 376292,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 190426,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 352828,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 254528,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 246716,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 436095,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 416235,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 161776,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 310393,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 219289,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 126284,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 79663,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 54710,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 196921,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 253487,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 109363,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 293321,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 116656,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 19372,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 363098,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 204688,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 50072,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 143592,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 233103,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 388099,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 75616,
+      "cf_relevance": 2,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 406687,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 331699,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 212188,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 421162,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 253237,
+      "cf_relevance": 7,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 161754,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 425405,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 39270,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 133624,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 25904,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 195465,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 250945,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 294507,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 415183,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 436785,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 90825,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 219112,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 231414,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 93714,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 348330,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 432337,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 264623,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 285778,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 406592,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 178514,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 350263,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 122272,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 389437,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 322707,
+      "cf_relevance": 6,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 247573,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 54801,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 29935,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 58685,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 393131,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 266929,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 131720,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 319150,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 36912,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 105593,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 5796,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 346188,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 181277,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 306490,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 127854,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 354518,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 27322,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 38750,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 191625,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 335624,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 226079,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 18262,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 362372,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 147054,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 200698,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 19286,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 233479,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 33512,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 79073,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 296989,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 354866,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 363073,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 375323,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 235867,
+      "cf_relevance": 2,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 388160,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 312616,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 6986,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 22749,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 148829,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 81698,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 408622,
+      "cf_relevance": 5,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 126118,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 58806,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 86912,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 108258,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 317300,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 28408,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 112905,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 106155,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 116253,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 201472,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 31107,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 378091,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 33146,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 435848,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 129692,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 237529,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 209172,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 177625,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 302444,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 82125,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 246501,
+      "cf_relevance": 3,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 183858,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 74396,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 253591,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 268195,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 115946,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 41640,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 215587,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 321145,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 57579,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 389788,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 213097,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 435651,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 158550,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 204791,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 41162,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 369278,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 81137,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 126525,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 225003,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 84870,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 198875,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 180686,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 100526,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 338956,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 352480,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 324048,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 34789,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 440942,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 256919,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 235514,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 167669,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 63322,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 415859,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 200468,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 37456,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 188199,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 36226,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 345017,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 351003,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 189707,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 264739,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 131003,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 58034,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 321868,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 167183,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 422598,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 130704,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 300619,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 164899,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 210635,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 107227,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 212661,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 209612,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 6187,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 272399,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 230488,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 236497,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 62711,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 77385,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 273513,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 198017,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 288995,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 95467,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 216233,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 158780,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 183844,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 395877,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 439536,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 193568,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 172970,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 382787,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 336270,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 67871,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 215745,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 441064,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 75511,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 176250,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 131244,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 186515,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 94915,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 147810,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 28185,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 325272,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 352140,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 106242,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 294129,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 302228,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 224704,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 223175,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 184775,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 47077,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 252115,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 193527,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 433945,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 205846,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 430608,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 435838,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 68625,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 86293,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 60294,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 397739,
+      "cf_relevance": 2,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 218713,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 84831,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 441907,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 47457,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 173101,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 84795,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 210322,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 329889,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 173441,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 425590,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 225751,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 196404,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 263496,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 106482,
+      "cf_relevance": 4,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 326607,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 283899,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 79914,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 382860,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 367626,
+      "cf_relevance": 3,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 186283,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 399048,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 184918,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 325514,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 120645,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 52483,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 205748,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 40107,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 367973,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 106330,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 57178,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 359830,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 244089,
+      "cf_relevance": 5,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 247983,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 23404,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 45384,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 335430,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 428453,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 371953,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 260962,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 226196,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 82704,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 400826,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 181506,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 155189,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 161081,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 325707,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 143771,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 379134,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 340296,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 173734,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 203744,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 93173,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 108091,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 431646,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 167017,
+      "cf_relevance": 6,
+      "hybrid_relevance": 7
+    },
+    {
+      "user_id_csv": 55046,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 338546,
+      "cf_relevance": 1,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 35835,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 159195,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 399398,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 74487,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 190124,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 172387,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 398788,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 88286,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 176738,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 28911,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 24056,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 61997,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 84438,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 61617,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 199757,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 412108,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 261684,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 132166,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 148671,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 49451,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 224533,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 38092,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 237334,
+      "cf_relevance": 3,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 123618,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 414641,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 439280,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 333132,
+      "cf_relevance": 4,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 292261,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 100460,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 396469,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 377724,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 357587,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 145297,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 401865,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 266143,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 307073,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 232278,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 68435,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 21808,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 51752,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 199006,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 33234,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 112016,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 111348,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 66356,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 220153,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 369465,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 108703,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 106218,
+      "cf_relevance": 2,
+      "hybrid_relevance": 2
+    },
+    {
+      "user_id_csv": 132574,
+      "cf_relevance": 2,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 147730,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 437616,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 144801,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 53198,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 440362,
+      "cf_relevance": 2,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 43759,
+      "cf_relevance": 6,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 121265,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 45392,
+      "cf_relevance": 6,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 345660,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 77718,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 245678,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 64140,
+      "cf_relevance": 4,
+      "hybrid_relevance": 5
+    },
+    {
+      "user_id_csv": 1708,
+      "cf_relevance": 1,
+      "hybrid_relevance": 1
+    },
+    {
+      "user_id_csv": 385163,
+      "cf_relevance": 4,
+      "hybrid_relevance": 3
+    },
+    {
+      "user_id_csv": 306528,
+      "cf_relevance": 3,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 108033,
+      "cf_relevance": 4,
+      "hybrid_relevance": 4
+    },
+    {
+      "user_id_csv": 376846,
+      "cf_relevance": 6,
+      "hybrid_relevance": 6
+    },
+    {
+      "user_id_csv": 170695,
+      "cf_relevance": 3,
+      "hybrid_relevance": 3
+    }
+  ]
+}

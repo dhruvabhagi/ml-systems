@@ -1,0 +1,29 @@
+{
+  "niche": {
+    "group": "niche",
+    "n": 250,
+    "cf_mean": 2.668,
+    "hybrid_mean": 2.98,
+    "relevance_delta_mean": 0.312,
+    "t_stat": 5.565,
+    "p_value": 0.0
+  },
+  "mainstream": {
+    "group": "mainstream",
+    "n": 250,
+    "cf_mean": 3.748,
+    "hybrid_mean": 3.608,
+    "relevance_delta_mean": -0.14,
+    "t_stat": -2.5072,
+    "p_value": 0.0128
+  },
+  "overall": {
+    "group": "overall",
+    "n": 1000,
+    "cf_mean": 3.325,
+    "hybrid_mean": 3.447,
+    "relevance_delta_mean": 0.122,
+    "t_stat": 4.1033,
+    "p_value": 0.0
+  }
+}
