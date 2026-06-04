@@ -49,4 +49,4 @@ covering both theory and systems-level implementation. Topics include:
 
 ### Repository Contents
 - `assignments/` — solutions to assignment1-assignment3
-- `project/` — [Robotic surgical instrument segmentation and pose estimation using EndoVis 2018 (SAM-3 vs SegFormer-B2 vs RestNet ablation)]
+- `project/` — [Robotic surgical instrument segmentation and pose estimation using EndoVis 2018 (SAM-3 vs SegFormer-B2 vs RestNet)]
